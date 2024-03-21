@@ -1,3 +1,7 @@
+![image](https://github.com/Dewansh31/WEATHER-APP-RN/assets/97904955/b41e2897-344a-4032-a6b3-fbc116de077f)
+
+
+
 # Sample Snack app
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
